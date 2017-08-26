@@ -1,4 +1,4 @@
-# TO DO before enjoy ?
+# 03 - adapt jekyll to accept data
 
 ## How to run
 
