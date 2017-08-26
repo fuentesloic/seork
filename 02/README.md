@@ -1,4 +1,4 @@
-# install jekyll and transform HTML5 UP template
+# 02 - install jekyll and transform HTML5 UP template
 
 ## How to run
 
