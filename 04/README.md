@@ -1,4 +1,6 @@
-# TO DO before enjoy ?
+# 04 - deal with real data
+
+## NEXT STEP: automatisation data insertion from instagram
 
 ## How to run
 
