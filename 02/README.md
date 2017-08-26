@@ -1,4 +1,4 @@
-# TO DO before enjoy ?
+# install jekyll and transform HTML5 UP template
 
 ## How to run
 
