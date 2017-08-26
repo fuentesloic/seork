@@ -1,4 +1,4 @@
-#01 - quick use template: lens by HTML5 YP
+# 01 - quick use template: lens by HTML5 YP
 
 Lens by HTML5 UP
 html5up.net | @ajlkn
