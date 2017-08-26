@@ -1,0 +1,10 @@
+# id settings
+title: Loïc Fuentes
+email: fuentes.loic@gmail.com
+github_username: fuentes_loic
+instagram_username: loicfuentes
+
+# Build settings
+baseurl: ""
+url: ""
+markdown: kramdown

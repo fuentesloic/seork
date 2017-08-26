@@ -1,0 +1,11 @@
+#error {
+  position: fixed;
+  top: 50%;
+  bottom: 50%;
+  left: 22.5%;
+}
+
+.copyright {
+  display: flex;
+  flex-direction: column;
+}

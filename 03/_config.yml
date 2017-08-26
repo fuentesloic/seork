@@ -1,0 +1,14 @@
+# id settings
+title: Seork
+email: seork@gmail.com
+description: > Seork is amazing,
+  he paints, he creates, he just ... live,
+  Oh my good it's so wonderfull.
+  You'll die if you see his paints.
+github_username: seork
+instagram_username: seork
+
+# Build settings
+baseurl: ""
+url: ""
+markdown: kramdown
