@@ -1,0 +1,10 @@
+<section id="thumbnails">
+  {% for paint_name in page.paints %}
+  {% assign paint = site.data.paint[paint_name] %}
+  <article>
+    <a class="thumbnail" href="images/{{ paint.photo | default: 'default' }}.jpg"><img src="images/{{ paint.photo | default: 'default' }}.jpg" alt="{{ paint.name }}" /></a>
+    <h2>{{ paint.name | default: "Je m'excuse mais la ressource n'a pas été trouvée" }}</h2>
+    <p>{{ paint.description | default: "Nous travaillons sur le problème"}}</p>
+  </article>
+  {% endfor %}
+</section>
