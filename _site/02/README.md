@@ -1,6 +1,4 @@
-# 04 - deal with real data
-
-## NEXT STEP: automatisation data insertion from instagram
+# 02 - install jekyll and transform HTML5 UP template
 
 ## How to run
 

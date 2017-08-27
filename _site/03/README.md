@@ -1,6 +1,4 @@
-# 04 - deal with real data
-
-## NEXT STEP: automatisation data insertion from instagram
+# 03 - adapt jekyll to accept data
 
 ## How to run
 
